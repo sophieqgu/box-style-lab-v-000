@@ -19,7 +19,7 @@ body, html {
 }
 
 img {
-  border: 10px, solid, #000;
+  border-style: solid
 }
 
 h4 {
@@ -71,10 +71,8 @@ h4.dubious {
 
 .med {
   width: 203.5%;
-  border: 10px, solid, #000;
 }
 
 .large {
   width: 303%;
-  border: 10px, solid, #000;
 }
