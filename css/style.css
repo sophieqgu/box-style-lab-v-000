@@ -19,7 +19,8 @@ body, html {
 }
 
 img {
-  border: 5px, solid, black;
+  border-styles: solid;
+  border-width: 1px
 }
 
 h4 {
