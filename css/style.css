@@ -18,6 +18,10 @@ body, html {
   margin: 10px auto;
 }
 
+img {
+  border: 1px;
+}
+
 h4 {
   width: fit-content;
   display: inline-block;
